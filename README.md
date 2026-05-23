@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divesh Gupta</h1>
-<h3 align="center">Cybersecurity Analyst | SOC | SIEM | Penetration Testing | Threat Detection</h3>
+<h3 align="center">SOC Intern @ CyArt Tech | Cybersecurity Analyst | SIEM | Penetration Testing | Threat Detection</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/divesh-gupta-348a00249/">
@@ -14,11 +14,12 @@
 
 ### 🛡️ About Me
 
+- 🏢 **SOC Domain Intern** at **CyArt Tech** — real-time security monitoring, alert triage & incident response
 - 🎓 B.E. in **Computer Science Engineering** from **Chandigarh University** (2022–2026)
 - 🔐 Passionate about **Cybersecurity**, **SOC Operations**, and **Penetration Testing**
-- 🧠 Built **OpcodeX AI** — an AI-powered smart contract vulnerability scanner
+- 🧠 Built **OpcodeX AI** — an AI-powered smart contract vulnerability scanner (92% accuracy)
 - 🖥️ Experienced with **SIEM tools** (Splunk, QRadar, Wazuh, Azure Sentinel)
-- 🏴 Active in **CTF Competitions** and **Ethical Hacking Labs**
+- 🏴 Active in **CTF Competitions** on TryHackMe & HackTheBox
 - 📍 Based in **Delhi, India**
 
 ---
@@ -47,6 +48,18 @@
 
 ---
 
+### 🏢 Professional Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| **Cybersecurity Intern — SOC Domain** | CyArt Tech | May 2026 – Present |
+
+- 🔍 Real-time security event monitoring, log analysis, and alert triage
+- 🛡️ Threat identification, vulnerability assessments, and incident documentation
+- 📋 35 hrs/week flexible schedule aligned with academic commitments
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -54,7 +67,7 @@
 | **OpcodeX AI** | AI-powered smart contract vulnerability scanner with 92% detection accuracy | Python, ML, AST Parsing |
 | **Wazuh SIEM Lab** | Security monitoring & incident response lab with custom MITRE ATT&CK rules | Wazuh, Linux, Log Analysis |
 | **OWASP Juice Shop Pentest** | End-to-end web app penetration testing — 25+ vulnerabilities exploited | Burp Suite, OWASP ZAP |
-| **Social Media Trend Analysis** | Deep learning trend prediction using Bidirectional GRU networks | Python, TensorFlow, NLP |
+| **Social Media Trend Analysis** | Deep learning trend prediction using Bidirectional GRU networks (77% accuracy) | Python, TensorFlow, NLP |
 
 ---
 
@@ -75,8 +88,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Divesh010&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divesh010&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ---
 
 <p align="center">
-  <i>🔒 Open to Cybersecurity Analyst, SOC Analyst, and Penetration Tester roles</i>
+  <i>🔒 SOC Intern @ CyArt Tech | Open to Cybersecurity Analyst, SOC Analyst, and Penetration Tester roles</i>
 </p>
