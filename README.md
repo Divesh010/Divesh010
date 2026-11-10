@@ -63,6 +63,7 @@
 | Repository | Description | Tech |
 |---|---|---|
 | **[PySec-LogAnalyzer](https://github.com/Divesh010/PySec-LogAnalyzer)** | SOC threat detection engine — parses Linux auth & web server logs, maps attacks to MITRE ATT&CK (T1110, T1087, T1548, T1190), exports CSV/JSON reports | Python, Regex, Pytest, MITRE ATT&CK |
+| **[Digital-Twin-AI-Enabled-Attacks](https://github.com/Divesh010/Digital-Twin-AI-Enabled-Attacks)** | Physics-based IoT digital twin simulating Bennett University campus (CO₂, HVAC, occupancy) with FDI attack injection engine, Isolation Forest anomaly detection, Streamlit security dashboard, and MQTT telemetry pipeline | Python, IoT, MQTT, Scikit-learn, Streamlit |
 | **[PentAudit](https://github.com/Divesh010/Pentaudit)** | Automated network security audit framework with Nmap integration, 8 documented vulnerability checks, HTML/JSON reporting, MITRE ATT&CK & NIST mappings | Python, Nmap, Security Scanning |
 | **[Social Media Trend Analysis](https://github.com/Divesh010/Social-Media-Trend-Analysis)** | Deep learning trend prediction using Bidirectional GRU for text classification (77% accuracy) | Python, TensorFlow, NLP |
 
