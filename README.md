@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divesh Gupta</h1>
-<h3 align="center">SOC Intern @ CyArt Tech | Cybersecurity Analyst | SIEM | Penetration Testing | Threat Detection</h3>
+<h3 align="center">Cybersecurity & SOC Operations | SIEM | Threat Detection | Python Security Automation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/divesh-gupta-348a00249/">
@@ -14,60 +14,57 @@
 
 ### 🛡️ About Me
 
-- 🏢 **SOC Domain Intern** at **CyArt Tech** — real-time security monitoring, alert triage & incident response
-- 🎓 B.E. in **Computer Science Engineering** from **Chandigarh University** (2022–2026)
-- 🔐 Passionate about **Cybersecurity**, **SOC Operations**, and **Penetration Testing**
-- 🧠 Built **OpcodeX AI** — an AI-powered smart contract vulnerability scanner (92% accuracy)
-- 🖥️ Experienced with **SIEM tools** (Splunk, QRadar, Wazuh, Azure Sentinel)
-- 🏴 Active in **CTF Competitions** on TryHackMe & HackTheBox
+- 🏢 **Former SOC Domain Intern** at **CyArt Tech** — real-time security monitoring, alert triage & incident response
+- 🎓 **MTech in Cybersecurity** — **Bennett University** (2026–Present)
+- 🎓 **B.E. Computer Science Engineering** — **Chandigarh University** (2022–2026)
+- 🔐 Specializing in **SOC Operations**, **Log Analysis**, **Threat Detection**, and **Python Security Automation**
+- 🖥️ Hands-on with **SIEM tools**: Wazuh, Splunk, QRadar, Azure Sentinel
+- 🏴 Active CTF practitioner on **TryHackMe** & **HackTheBox**
 - 📍 Based in **Delhi, India**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Security Operations**
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+**Security Operations & SIEM**
 ![Wazuh](https://img.shields.io/badge/Wazuh-3C873A?style=flat-square&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E34F26?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 **Penetration Testing**
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
-**Programming & Cloud**
+**Programming & Infrastructure**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### 🏢 Professional Experience
 
 | Role | Company | Duration |
-|------|---------|----------|
-| **Cybersecurity Intern — SOC Domain** | CyArt Tech | May 2026 – Present |
+|---|---|---|
+| **Cybersecurity Intern — SOC Domain** | CyArt Tech | May 2026 – Nov 2026 |
 
 - 🔍 Real-time security event monitoring, log analysis, and alert triage
 - 🛡️ Threat identification, vulnerability assessments, and incident documentation
-- 📋 35 hrs/week flexible schedule aligned with academic commitments
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Repositories
 
-| Project | Description | Tech |
-|---------|------------|------|
-| **OpcodeX AI** | AI-powered smart contract vulnerability scanner with 92% detection accuracy | Python, ML, AST Parsing |
-| **Wazuh SIEM Lab** | Security monitoring & incident response lab with custom MITRE ATT&CK rules | Wazuh, Linux, Log Analysis |
-| **OWASP Juice Shop Pentest** | End-to-end web app penetration testing — 25+ vulnerabilities exploited | Burp Suite, OWASP ZAP |
-| **Social Media Trend Analysis** | Deep learning trend prediction using Bidirectional GRU networks (77% accuracy) | Python, TensorFlow, NLP |
+| Repository | Description | Tech |
+|---|---|---|
+| **[PySec-LogAnalyzer](https://github.com/Divesh010/PySec-LogAnalyzer)** | SOC threat detection engine — parses Linux auth & web server logs, maps attacks to MITRE ATT&CK (T1110, T1087, T1548, T1190), exports CSV/JSON reports | Python, Regex, Pytest, MITRE ATT&CK |
+| **[PentAudit](https://github.com/Divesh010/Pentaudit)** | Automated network security audit framework with Nmap integration, 8 documented vulnerability checks, HTML/JSON reporting, MITRE ATT&CK & NIST mappings | Python, Nmap, Security Scanning |
+| **[Social Media Trend Analysis](https://github.com/Divesh010/Social-Media-Trend-Analysis)** | Deep learning trend prediction using Bidirectional GRU for text classification (77% accuracy) | Python, TensorFlow, NLP |
 
 ---
 
@@ -95,5 +92,5 @@
 ---
 
 <p align="center">
-  <i>🔒 SOC Intern @ CyArt Tech | Open to Cybersecurity Analyst, SOC Analyst, and Penetration Tester roles</i>
+  <i>🔒 Cybersecurity & SOC Operations | Actively seeking Cybersecurity Analyst, SOC Analyst, and Security Engineer internship roles</i>
 </p>
