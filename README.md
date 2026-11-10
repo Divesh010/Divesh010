@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divesh Gupta</h1>
+[<h1 align="center">Hi 👋, I'm Divesh Gupta</h1>
 <h3 align="center">Cybersecurity & SOC Operations | SIEM | Threat Detection | Python Security Automation</h3>
 
 <p align="center">
@@ -95,3 +95,4 @@
 <p align="center">
   <i>🔒 Cybersecurity & SOC Operations | Actively seeking Cybersecurity Analyst, SOC Analyst, and Security Engineer internship roles</i>
 </p>
+](https://github.com/Divesh010/Divesh010)
